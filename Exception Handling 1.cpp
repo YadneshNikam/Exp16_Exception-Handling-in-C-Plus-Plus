@@ -1,4 +1,5 @@
-//yashrastogi 24070123135 exp-15
+//Yadnesh Nikam
+//24070123134
 #include<iostream>
 using namespace std;
 
@@ -26,4 +27,5 @@ Enter values of the first and second number : 4 5
 Answer = 0.8
 Enter values of the first and second number : 4 0
 ERROR: Division by 0
+
 */
